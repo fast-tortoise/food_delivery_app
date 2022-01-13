@@ -1,0 +1,4 @@
+#Thu Jan 13 20:44:26 IST 2022
+base.0=C\:\\Users\\91763\\Downloads\\food_ordering_app-main\\food_ordering_app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
